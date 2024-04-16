@@ -41,6 +41,4 @@
 
 - https://github.com/biancangming/wtv/tree/master/m3uMaker
 
-# 有兴趣关注我的微信公众号，一个橙子pro
 
-<img src="https://user-images.githubusercontent.com/42108047/173232153-a4a60817-cba0-4f0a-8ccb-f26e197314f9.jpg" width="200" height="200" alt="一个橙子pro"/>
